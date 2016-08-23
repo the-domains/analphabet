@@ -6,9 +6,9 @@ color:
   saturation: 0.6616422040387988
   rhythmicContrast: 0.5172954532317817
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
 name: anAlphabet
