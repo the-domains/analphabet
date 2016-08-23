@@ -1,0 +1,14 @@
+layout_spectrum: 0.6891516272444278
+typography_spectrum: 0.5552102061919868
+color:
+  brandStrength: 0.5591720372904092
+  lightness: 0.7773561661597341
+  saturation: 0.6616422040387988
+  rhythmicContrast: 0.5172954532317817
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: anAlphabet
