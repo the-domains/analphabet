@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-08-23T11:19:52.170Z'
+datePublished: '2016-08-23T13:55:49.434Z'
 sourcePath: _posts/2016-04-16-there-and-back-again-a-cross-country-epic.md
 inFeed: true
-isBasedOnUrl: 'https://alphauniverse.com/stories/there-and-back-again--a-cross-country-epic/'
-hasPage: false
+hasPage: true
 keywords:
   - sony
   - iso
@@ -17,7 +16,7 @@ keywords:
   - garment
 related: []
 author: []
-dateModified: '2016-08-23T11:19:51.896Z'
+dateModified: '2016-08-23T13:55:48.888Z'
 title: 'There & Back Again: A Cross-Country Epic'
 app_links: []
 publisher:
@@ -35,6 +34,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: there-and-back-again-a-cross-country-epic/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
