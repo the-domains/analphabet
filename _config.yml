@@ -12,3 +12,7 @@ color:
     - '#BFBFBF'
     - '#FFFFFF'
 name: anAlphabet
+navigation:
+  - name: this
+    id: 9f4ea3d3-1133-417b-8da6-4a5ad5c5b599
+    type: content
